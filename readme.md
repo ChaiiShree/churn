@@ -43,7 +43,7 @@ This section provides a complete visual narrative of the exploratory data analys
 ### 1. Overall Churn Distribution
 The analysis begins by establishing the baseline churn rate. The dataset is imbalanced, with **26.5%** of customers having churned. This imbalance informs our choice of evaluation metrics like ROC AUC.
 
-![Churn Distribution Pie Chart](visualizations/churn_distribution.jpg)
+![Churn Distribution Pie Chart](visualizations/churn_distribution.png)
 
 ### 2. Demographic Analysis
 **Insight:** While gender is not a factor, **Senior Citizens churn at a higher rate**. Having a partner and dependents appears to be a stabilizing factor, significantly reducing the likelihood of churn.
